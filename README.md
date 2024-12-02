@@ -5,7 +5,8 @@
 <h3 align="center">Aspiring Programmer | Competitive Programming Newcomer |Passionate About Web Technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://khatriroshan.com.np/static/media/giphy.b31655aeb566789dab09.gif" >
 
-- 🌱 I’m currently learning **Adv-Java, Web technologies ,Basic Machine Learning**
+
+- 🌱 I’m currently learning **Advanced Java, Web technologies ,Basic Machine Learning**
 
 - 💬 Ask me about **Front-End and UI/UX ,programming**
 
