@@ -1,12 +1,12 @@
-# 💫 About Me:
+# ♡ About Me:
 
 Hey there! I'm Arjun Mishra, a student and tech enthusiast who loves to learn and build cool stuff.  
 I enjoy exploring new technologies, working on personal projects, and growing my skills every day.
 
-🎓 Student with a passion for programming and problem-solving  
-🌱 Currently learning full-stack development & more  
-👯 Looking to collaborate on beginner-friendly projects  
-💬 Always up for a chat about tech, learning, or coding journeys  
+↭  Student with a passion for programming and problem-solving  
+↭  Currently learning full-stack development & more  
+↭  Looking to collaborate on beginner-friendly projects  
+↭  Always up for a chat about tech, learning, or coding journeys  
 
 <br/>
 
